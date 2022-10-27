@@ -1,0 +1,16 @@
+﻿  Ex2.cpp
+C:\Users\1290743\Desktop\Ex2_0104-master\Ex2_0104\Ex2.cpp(14,19): warning C4013: editing: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Ex2_0104-master\Ex2_0104\Ex2.cpp(14,21): warning C4047: =: "int (__cdecl *)()" отличается по уровням косвенного обращения от "int"
+C:\Users\1290743\Desktop\Ex2_0104-master\Ex2_0104\Ex2.cpp(15,25): warning C4013: dynamic_array: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Ex2_0104-master\Ex2_0104\Ex2.cpp(15,27): warning C4047: =: "int (__cdecl *)()" отличается по уровням косвенного обращения от "int"
+C:\Users\1290743\Desktop\Ex2_0104-master\Ex2_0104\Ex2.cpp(16,28): warning C4013: Triangular_array: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Ex2_0104-master\Ex2_0104\Ex2.cpp(16,30): warning C4047: =: "int (__cdecl *)()" отличается по уровням косвенного обращения от "int"
+C:\Users\1290743\Desktop\Ex2_0104-master\Ex2_0104\Ex2.cpp(17,27): warning C4013: Function_output: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\1290743\Desktop\Ex2_0104-master\Ex2_0104\Ex2.cpp(17,35): warning C4047: =: "int (__cdecl *)()" отличается по уровням косвенного обращения от "int"
+C:\Users\1290743\Desktop\Ex2_0104-master\Ex2_0104\Ex2.cpp(70,16): warning C4477: "printf": в строке форматирования "%p" требуется аргумент типа "void *", но вариативный аргумент "1" имеет тип "int"
+C:\Users\1290743\Desktop\Ex2_0104-master\Ex2_0104\Ex2.cpp(70,16): warning C4313: printf: конфликт "%p" в строке формата с аргументом 1 типа "int"
+C:\Users\1290743\Desktop\Ex2_0104-master\Ex2_0104\Ex2.cpp(109): warning C4716: dynamic_array: должна возвращать значение
+C:\Users\1290743\Desktop\Ex2_0104-master\Ex2_0104\Ex2.cpp(78): warning C4716: editing: должна возвращать значение
+C:\Users\1290743\Desktop\Ex2_0104-master\Ex2_0104\Ex2.cpp(140): warning C4716: Triangular_array: должна возвращать значение
+C:\Users\1290743\Desktop\Ex2_0104-master\Ex2_0104\Ex2.cpp(147): warning C4716: Function_output: должна возвращать значение
+  Ex2_0104.vcxproj -> C:\Users\1290743\Desktop\Ex2_0104-master\x64\Debug\Ex2_0104.exe
